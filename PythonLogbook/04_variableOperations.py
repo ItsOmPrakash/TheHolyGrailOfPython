@@ -37,7 +37,6 @@ print("Integer Variable from String:", intVariableFromString)  # Output: Integer
 # if the string cannot be converted to an integer, it will raise a ValueError.
 # Casting is useful when you need to perform operations on variables of different data types.
 
-
 #----------------------------------------------------------------------------------------------------------------------------------------
 
 # getting the type of a variable
