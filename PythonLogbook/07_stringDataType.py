@@ -106,6 +106,7 @@ print("Capitalized string:", capitalizedString)  # Output: Capitalized string: H
 titleString = concatenatedString.title()  # This will result in "Hello World"   
 print("Title case string:", titleString)  # Output: Title case string: Hello World
 
+
 #----------------------------------------------------------------------------------------------------------------------------------------
 
 
