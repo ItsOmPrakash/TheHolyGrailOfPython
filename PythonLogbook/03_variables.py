@@ -105,6 +105,5 @@ myVariableName_ = "Temporary"  # Underscore suffix indicates that the variable i
 __myVariableName = "Special"  # Double underscore prefix indicates that the variable is intended for special use or is a private variable
 
 
-
 #-------------------------------------------------------------------------------------------------------------------------------
     
