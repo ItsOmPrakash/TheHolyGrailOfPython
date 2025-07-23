@@ -21,6 +21,7 @@ print(Value)  # This line prints the value stored in the variable 'Value' to the
 print(type(Value)) # This line prints the type of the variable 'Value' to the console
 
 
+
 #-----------------------------------------------------------------------------------------
 # input() function returns the value entered by the user as a string
 # To solve this, we can convert the input to an integer or float using int() or float() functions 
