@@ -73,6 +73,7 @@ globalScopeModificationExample()  # Calling the function to see the global varia
 # Note: Global variables should be used sparingly, as they can lead to code that is difficult to understand and maintain.
 
 
+
 #-----------------------------------------------------------------------------------------------------------------------------
 
 # 4. Built-in Scope: These are the names that are pre-defined in Python, such as `print()`, `len()`, etc.
