@@ -17,6 +17,7 @@ complexVariable = 10 + 2j
 
 #-------------------------------------------------------------------------------------------------------------------------------
 
+
 # 2. Text type: These type used to represent text in Python. 
 # There is one text type in Python:
 #   - str: Represents strings, which are sequences of characters enclosed in single or double quotes.
