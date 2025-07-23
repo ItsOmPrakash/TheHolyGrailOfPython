@@ -74,6 +74,7 @@ divmodValue = divmod(10, 3)  # This will return (3, 1) meaning 10 divided by 3 i
 print("Divmod of 10 and 3:", divmodValue)  # Output: Divmod of 10 and 3: (3, 1)
 
 #----------------------------------------------------------------------------------------------------------------------------------------
+
 # In Python we can also converts numbers into binary, octal, and hexadecimal representations using the built-in functions `bin()`, `oct()`, and `hex()` respectively.
 
 # bin() - Converts an integer to its binary representation.
