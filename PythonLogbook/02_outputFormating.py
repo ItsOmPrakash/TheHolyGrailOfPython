@@ -56,6 +56,7 @@ print("Hello {}, you are {} years old ." .format(name, age)) # This will print: 
 # It allows you to insert variables into a string using curly braces {}
 
 
+
 #--------------------------------------------------------------------------------------------------------------
 
 # Using Joining strings with join() method
