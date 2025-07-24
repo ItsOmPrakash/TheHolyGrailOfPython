@@ -8,3 +8,4 @@ def greet_user(name):
 
 # calling the sunction and passing the argument
 greet_user(input("enter your name: "))
+
